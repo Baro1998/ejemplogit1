@@ -1,0 +1,41 @@
+html {
+  background-color: #946a55;
+  background-image: url("../image/20230512_202610.jpg");
+  background-repeat: no-repeat;
+  background-position: 30px 10px;
+  background-position: 2em right;
+}
+
+p {
+  margin: 30px 10px 30px 0;
+}
+
+#cabecera {
+  background: #7396ff;
+  font-family: Helvetica, Arial, Verdana, sans-serif;
+  padding: 10px;
+}
+
+#cabecera ul {
+  padding: 0;
+  list-style: none;
+  margin: 0;
+}
+
+#cabecera ul li a {
+  color: #ffffffff;
+  text-transform: none;
+  font-weight: bold;
+}
+
+#cabecera ul li.receta {
+  background: #663300;
+  padding: 10px;
+  margin: 10px;
+}
+
+#cabera ul li a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
